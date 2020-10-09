@@ -1,0 +1,1 @@
+mongodb+srv://lovegupta0:lovegupta0@cluster0.f1okn.mongodb.net/freelance
